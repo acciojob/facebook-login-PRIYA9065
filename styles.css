@@ -10,15 +10,16 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height:100vh;
+	height:90vh;
 }
 
 .facebook{
 	display: flex;
 	width: 80vw;
+	
 }
 #left-part{
-	width: 450px;
+	width: 350px;
 	margin-top: 70px;
 	display: inline-block;
 }
