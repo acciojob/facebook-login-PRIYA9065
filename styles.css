@@ -51,7 +51,7 @@ input{
 	padding: 10px;
 }
 
-#login{
+button{
 	background-color: #1877f2;
 	border-radius: 5px;
 	padding: 10px 20px;
@@ -62,3 +62,8 @@ input{
 	border-radius: 5px;
 	padding: 10px 20px;
 }
+
+a{
+	text-decoration: none;
+}
+
